@@ -11,7 +11,7 @@ export default function App() {
         <nav>
           <ul>
             <li>
-              <Link to="/">Casa</Link>
+              <Link to="/">Chrisanto</Link>
             </li>
             <li>
               <Link to="/about">Acerca de nosotros</Link>
