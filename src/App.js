@@ -11,13 +11,13 @@ export default function App() {
         <nav>
           <ul>
             <li>
-              <Link to="/">CASA</Link>
+              <Link to="/">Casa</Link>
             </li>
             <li>
-              <Link to="/about">About</Link>
+              <Link to="/about">Acerca de nosotros</Link>
             </li>
             <li>
-              <Link to="/users">Users</Link>
+              <Link to="/users">Usuarios</Link>
             </li>
           </ul>
         </nav>
